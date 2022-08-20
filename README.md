@@ -1,6 +1,6 @@
-# Pre-work - *Tips Calculator by 2DT*
+# Pre-work - *Tip Calculator by 2DT*
 
-**Tips Calculator** is a tip calculator application for iOS.
+**Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Truong Dang**
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/a9yrjeF.gif)
+<img src='https://i.imgur.com/a9yrjeF.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
