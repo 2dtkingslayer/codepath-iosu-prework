@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This project is great to me. I have discovered more tools of Xcode and known how to connect different outlets and actions together.
+This project is great to me. I have discovered more tools of Xcode and known how to connect different outlets and actions together. Anyway, I don't understand why my GIF passes all of the qualificaitons (also displays on HackMD) but cannot display on GitHub.
 
 ## License
 
